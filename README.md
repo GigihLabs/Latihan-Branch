@@ -1,2 +1,1 @@
-# Latihan-Branch
-Latihan membuat dan mengelola Cabang (Branch)
+# Ini adalah Repository untuk latihan membuat branch baru di GitHub.
